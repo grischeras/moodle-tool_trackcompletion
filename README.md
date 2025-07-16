@@ -1,1 +1,1 @@
-# moodle-tool_trackcompletion
+Track easily assignments completion in Moodle.
