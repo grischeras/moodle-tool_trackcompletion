@@ -15,10 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Languages configuration for the plugintype_pluginname plugin.
+ * Languages configuration for the tool_trackcompletion plugin.
  *
- * @package   plugintype_pluginname
- * @copyright Year, You Name <your@email.address>
+ * @package   tool_trackcompletion
+ * @copyright 2025, Alberto Sempreboni <alberto.sempreboni@moodle.com>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
